@@ -1,6 +1,7 @@
+![I am c# ASP.Net and PHP devloper](https://media.licdn.com/dms/image/D5616AQFk1ANWGuKO1g/profile-displaybackgroundimage-shrink_350_1400/0/1691227915266?e=1696464000&v=beta&t=urpuBWl-2p8H3sRiyjMc_-geie8Tr_O7XfLwbbylJD0)
 ### Hi there 👋, my name is Johirull islam
 #### I am c# ASP.Net and PHP devloper
-![I am c# ASP.Net and PHP devloper](https://media.licdn.com/dms/image/D5616AQFk1ANWGuKO1g/profile-displaybackgroundimage-shrink_350_1400/0/1691227915266?e=1696464000&v=beta&t=urpuBWl-2p8H3sRiyjMc_-geie8Tr_O7XfLwbbylJD0)
+
 
 A self-motivated, hardworking student in IT, I seek an internship position at an IT Company that will allow me to explore career options in web development. I have completed intermediate projects relevant to this internship position.
 

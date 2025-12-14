@@ -1,28 +1,130 @@
-![I am c# ASP.Net and PHP devloper](https://media.licdn.com/dms/image/D5616AQFk1ANWGuKO1g/profile-displaybackgroundimage-shrink_350_1400/0/1691227915266?e=1696464000&v=beta&t=urpuBWl-2p8H3sRiyjMc_-geie8Tr_O7XfLwbbylJD0)
-### Hi there 👋, my name is Johirull islam
-#### I am c# ASP.Net and PHP devloper
+👋 Hi, I'm Johirull Islam
+
+🚀 Software Developer | ASP.NET Core & Angular Specialist
+🏢 Code Ware Ltd.
+📍 Bangladesh
+💼 6+ Years of Professional Experience
+
+I’m a passionate software developer with strong experience in building enterprise-level business applications such as ERP, Microfinance, Loan Management, HR Payroll, POS, and FinTech systems.
+I focus on clean architecture, scalable backend systems, and maintainable frontend solutions.
+
+I enjoy turning complex business requirements into clean, efficient, and user-friendly software solutions.
+
+🧑‍💻 Professional Summary
+
+💼 3 years of hands-on experience in software development
+
+🧠 Strong understanding of OOP, SOLID principles, and Design Patterns
+
+🏗️ Experienced in Clean Architecture, Repository Pattern, and Unit of Work
+
+🔄 Skilled in building step-by-step data workflows and wizard-based applications
+
+📊 Domain experience in ERP, Finance, Microfinance, HR, Payroll, POS & E-commerce
+
+🎯 Actively preparing for technical interviews and long-term goal to build my own IT company
+
+🛠️ Tech Stack & Skills
+🔹 Backend Development
+
+C#
+
+ASP.NET Core Web API
+
+Entity Framework Core
+
+LINQ
+
+Repository & Unit of Work Pattern
+
+Clean Architecture
+
+Background Tasks & Hosted Services
+
+RESTful API Design
+
+Authentication & Authorization
+
+🔹 Frontend Development
+
+Angular
+
+TypeScript
+
+Reactive Forms
+
+NG-ZORRO
+
+Tailwind CSS
+
+Component Communication (Parent ↔ Child)
+
+Lazy Loading & Modular Routing
+
+API Integration & State Handling
+
+🔹 Database
+
+Microsoft SQL Server
+
+Query Optimization
+
+Stored Procedures
+
+Window Functions
+
+Complex Joins & Reporting Queries
+
+🔹 Tools & Others
+
+Git & GitHub
+
+Postman
+
+Visual Studio / VS Code
+
+Agile Development Practices
+
+Problem Solving & Debugging
+
+API Documentation
+
+📌 Key Projects & Systems
+🏦 Microfinance & Loan Management System
+
+Step-wise customer onboarding
+
+Loan application wizard
+
+Dynamic loan amount validation
+
+Guarantor & financial information handling
+
+Agreement letter generation (PDF)
+
+Admin approval workflows
 
 
-A self-motivated, hardworking student in IT, I seek an internship position at an IT Company that will allow me to explore career options in web development. I have completed intermediate projects relevant to this internship position.
+🧠 Architecture & Coding Philosophy
 
-Skills:  HTML / CSS/JQuery/ Bootstrap/ c#/ PHP/ ASP Dot net/ Entity Framework/ Github/ MySql
+Clean, readable, and maintainable code
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning ASP.net core and PHP Laravel  
-- 💬 Ask me about Web development 
+Separation of concerns
 
+Business logic inside repositories/services
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdjohir9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md/johirull/islam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md_JoHir_RaiHan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdjohirullislam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://mdjohirullislam.great-site.net/?i=1)  
+API consistency & proper DTO usage
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+Performance-focused database queries
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdjohir9)](https://github.com/ryo-ma/github-profile-trophy)
+Scalable system design for real-world business needs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjohir9)](https://github.com/anuraghazra/github-readme-stats)
+🎯 Career Goals
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjohir9&show_icons=true)  
+📈 Grow as a Senior Software Engineer / Technical Lead
 
-![GitHub metrics](https://metrics.lecoq.io/mdjohir9)  
+🏢 Build my own IT Company in the near future
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdjohir9)  
+🎤 Improve English communication & interview confidence
 
+🌍 Work on impactful, real-world software products
